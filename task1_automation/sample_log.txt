@@ -1,0 +1,20 @@
+2026-07-04 07:27:43 - INFO - Run started at 2026-07-04 07:27:43.266675
+2026-07-04 07:27:43 - INFO - Starting organization of: /home/claude/automation_script/sample_test
+2026-07-04 07:27:43 - INFO - Created folder: /home/claude/automation_script/sample_test/Audio
+2026-07-04 07:27:43 - INFO - Moved: 'song.mp3' -> 'Audio/song.mp3'
+2026-07-04 07:27:43 - INFO - Created folder: /home/claude/automation_script/sample_test/Documents
+2026-07-04 07:27:43 - INFO - Moved: 'report.pdf' -> 'Documents/report.pdf'
+2026-07-04 07:27:43 - INFO - Moved: 'duplicate.txt' -> 'Documents/duplicate.txt'
+2026-07-04 07:27:43 - INFO - Created folder: /home/claude/automation_script/sample_test/Archives
+2026-07-04 07:27:43 - INFO - Moved: 'archive.zip' -> 'Archives/archive.zip'
+2026-07-04 07:27:43 - INFO - Created folder: /home/claude/automation_script/sample_test/Images
+2026-07-04 07:27:43 - INFO - Moved: 'photo2.PNG' -> 'Images/photo2.PNG'
+2026-07-04 07:27:43 - INFO - Created folder: /home/claude/automation_script/sample_test/Videos
+2026-07-04 07:27:43 - INFO - Moved: 'movie.mp4' -> 'Videos/movie.mp4'
+2026-07-04 07:27:43 - INFO - Moved: 'notes.txt' -> 'Documents/notes.txt'
+2026-07-04 07:27:43 - INFO - Moved: 'photo1.jpg' -> 'Images/photo1.jpg'
+2026-07-04 07:27:43 - INFO - Created folder: /home/claude/automation_script/sample_test/Code
+2026-07-04 07:27:43 - INFO - Moved: 'script.py' -> 'Code/script.py'
+2026-07-04 07:27:43 - INFO - Created folder: /home/claude/automation_script/sample_test/Others
+2026-07-04 07:27:43 - INFO - Moved: 'randomfile.xyz' -> 'Others/randomfile.xyz'
+2026-07-04 07:27:43 - INFO - Organization complete. Moved: 10, Errors: 0

@@ -1,0 +1,13 @@
+OrderID,Product,Category,Quantity,Price,Region,OrderDate
+1001,Laptop,Electronics,2,55000,South,2026-01-05
+1002,Notebook,Stationery,10,40,North,2026-01-06
+1003,Phone Case,Accessories,5,,East,2026-01-07
+1004,Laptop,Electronics,1,54000,West,2026-01-10
+1005,Pen,Stationery,20,10,North,2026-01-11
+1006,Headphones,Electronics,3,1500,South,
+1007,Notebook,Stationery,15,40,East,2026-01-15
+1008,Phone Case,Accessories,,300,West,2026-01-18
+1009,Laptop,Electronics,1,56000,North,2026-01-20
+1010,Headphones,Electronics,4,1450,East,2026-01-21
+1011,Pen,Stationery,25,10,South,2026-01-22
+1012,Laptop,Electronics,2,55000,South,2026-01-25
